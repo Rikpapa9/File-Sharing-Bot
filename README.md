@@ -118,11 +118,11 @@ python3 main.py
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
 
-* `{first}` - User first name
-* `{last}` - User last name
+* `{first}` - anku
+* `{last}` - op
 * `{id}` - User ID
-* `{mention}` - Mention the user
-* `{username}` - Username
+* `{mention}` - @Anku_00109
+* `{username}` - @Anku_00109
 
 #### CUSTOM_CAPTION
 
